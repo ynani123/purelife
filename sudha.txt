@@ -1,1 +1,3 @@
 hi im trying to learn git here
+
+hi this is jyo
